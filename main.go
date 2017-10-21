@@ -7,7 +7,7 @@ import (
 
 	"github.com/hashicorp/go-plugin"
 	"github.com/hexbotio/hex-plugin"
-	"github.com/hexbotio/winrm"
+	"github.com/masterzen/winrm"
 )
 
 type HexWinrm struct {
