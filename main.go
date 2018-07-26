@@ -6,8 +6,8 @@ import (
 	"strconv"
 
 	"github.com/hashicorp/go-plugin"
-	"github.com/hexbotio/hex-plugin"
 	"github.com/masterzen/winrm"
+	"github.com/mmcquillan/hex-plugin"
 )
 
 type HexWinrm struct {
